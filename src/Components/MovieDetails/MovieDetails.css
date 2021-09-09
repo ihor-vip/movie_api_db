@@ -1,0 +1,17 @@
+.poster{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.link{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+    position: fixed;
+}

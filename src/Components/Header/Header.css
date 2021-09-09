@@ -1,0 +1,19 @@
+.header{
+    width: 100%;
+    cursor: pointer;
+    position: fixed;
+    background: #39445a;
+    padding-bottom: 15px;
+    font-size: 5vw;
+    z-index: 2;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+@media( max-width: 1000px) {
+    .header {
+        padding-top: 15px;
+        font-size: 7vw;
+    }
+}
